@@ -1,0 +1,5 @@
+*.o
+ls
+out.tmp
+*.swp
+*.core
